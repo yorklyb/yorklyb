@@ -3,8 +3,8 @@
 - 📫 How to reach me: buaayorklau@gmail.com or yorklyb@yorku.ca
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yorklyb&theme=radical)
-<!--
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yorklyb&theme=radical)
+
 **yorklyb/yorklyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

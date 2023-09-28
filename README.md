@@ -1,5 +1,5 @@
 ### Greetings!
-- 🔭 I’m currently working on Nerf, Neus, and Diffusion.
+- 🔭 I’m currently working on NeRFs, Neus, and Diffusion.
 - 📫 How to reach me: buaayorklau@gmail.com or yorklyb@yorku.ca
 
 

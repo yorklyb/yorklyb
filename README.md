@@ -1,7 +1,7 @@
 ### Greetings!
 - 🔭 I’m currently working on NeRFs, Neus, and Diffusion.
 - 📫 How to reach me: buaayorklau@gmail.com or yorklyb@yorku.ca
-- My personal webpage: https://navy-years-222297.framer.app/
+- My personal webpage: https://yorklyb.github.io/
 
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yorklyb&theme=radical)

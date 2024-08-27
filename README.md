@@ -1,5 +1,6 @@
 ### Greetings!
-- 🔭 I’m currently working on NeRFs, Neus, and Diffusion.
+- 🔭 I’m currently working on generative AI, embodied AI, and vision language.
+- Check my latest papers: [VQA-Diff(ECCV24)](https://arxiv.org/abs/2407.06516v1) and [MV-DeepSDF(ICCV23)](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_MV-DeepSDF_Implicit_Modeling_with_Multi-Sweep_Point_Clouds_for_3D_Vehicle_ICCV_2023_paper.html).
 - 📫 How to reach me: buaayorklau@gmail.com or yorklyb@yorku.ca
 - My personal webpage: https://yorklyb.github.io/
 
